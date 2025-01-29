@@ -1,0 +1,15 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "libs/hibernate-core-5.4.1.Final.jar",
+        "libs/jasperreports-7.0.1.jar",
+        "libs/mysql-connector-java-8.0.30.jar",
+        "libs/commons-logging-1.2.jar",
+        "libs/commons-beanutils-1.10.0.jar",
+        "libs/commons-collections-3.2.1.jar",
+        "libs/commons-digester-2.1.jar",
+        "libs/poi-5.4.0.jar",
+        "libs/slf4j-api-2.0.16.jar"
+    ],
+    "java.configuration.updateBuildConfiguration": "automatic"
+}

@@ -1,0 +1,123 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TelaEmprestimos",
+            "request": "launch",
+            "mainClass": "com.projeto.view.TelaEmprestimos",
+            "projectName": "biblioteca-digital-compartilhada"
+        },
+        {
+            "type": "java",
+            "name": "TelaLivros",
+            "request": "launch",
+            "mainClass": "com.projeto.view.TelaLivros",
+            "projectName": "biblioteca-digital-compartilhada"
+        },
+        {
+            "type": "java",
+            "name": "TelaUsuarios",
+            "request": "launch",
+            "mainClass": "com.projeto.view.TelaUsuarios",
+            "projectName": "biblioteca-digital-compartilhada"
+        },
+        {
+            "type": "java",
+            "name": "TelaLogin",
+            "request": "launch",
+            "mainClass": "com.projeto.view.TelaLogin",
+            "projectName": "biblioteca-digital-compartilhada"
+        },
+        {
+            "type": "java",
+            "name": "MenuPrincipal",
+            "request": "launch",
+            "mainClass": "com.projeto.view.MenuPrincipal",
+            "projectName": "biblioteca-digital-compartilhada"
+        },
+        {
+            "type": "java",
+            "name": "TestePersistencia",
+            "request": "launch",
+            "mainClass": "TestePersistencia",
+            "projectName": "biblioteca-digital-compartilhada"
+        },
+        {
+            "type": "java",
+            "name": "RelatorioLivrosTest",
+            "request": "launch",
+            "mainClass": "RelatorioLivrosTest",
+            "projectName": "biblioteca-digital-compartilhada"
+        },
+        {
+            "type": "java",
+            "name": "SLF4JTest",
+            "request": "launch",
+            "mainClass": "SLF4JTest",
+            "projectName": "biblioteca-digital-compartilhada"
+        },
+        {
+            "type": "java",
+            "name": "MySQLConnectionTest",
+            "request": "launch",
+            "mainClass": "MySQLConnectionTest",
+            "projectName": "biblioteca-digital-compartilhada"
+        },
+        {
+            "type": "java",
+            "name": "CommonsLoggingTest",
+            "request": "launch",
+            "mainClass": "CommonsLoggingTest",
+            "projectName": "biblioteca-digital-compartilhada"
+        },
+        {
+            "type": "java",
+            "name": "CommonsCollectionsTest",
+            "request": "launch",
+            "mainClass": "CommonsCollectionsTest",
+            "projectName": "biblioteca-digital-compartilhada"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.projeto.Main",
+            "projectName": "biblioteca-digital-compartilhada"
+        },
+        {
+            "type": "java",
+            "name": "TesteHibernate",
+            "request": "launch",
+            "mainClass": "tests.TesteHibernate",
+            "projectName": "Biblioteca-Digital-Compartilhada_6778cbb5"
+        },
+        {
+            "type": "java",
+            "name": "TesteJasper",
+            "request": "launch",
+            "mainClass": "tests.TesteJasper",
+            "projectName": "Biblioteca-Digital-Compartilhada_6778cbb5"
+        },
+        {
+            "type": "java",
+            "name": "TesteMySQL",
+            "request": "launch",
+            "mainClass": "tests.TesteMySQL",
+            "projectName": "Biblioteca-Digital-Compartilhada_6778cbb5"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App"
+        },
+        {
+            "type": "java",
+            "name": "Executar TiposDeCast",
+            "request": "launch",
+            "mainClass": "TiposDeCast",
+            "vmArgs": "-Djgroups.bind_addr=127.0.0.1",
+            "args": ""
+        }
+    ]
+}
